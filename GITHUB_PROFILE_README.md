@@ -1,23 +1,42 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=A965F7&center=true&vCenter=true&width=435&lines=Líder+em+Biodefesa;Full+Stack+Developer;Pesquisadora+de+IA" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Marcelle%20Carol&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Biodefense%20Researcher&descAlignY=55&descAlign=60&customColorList=8A2BE2,4B0082" />
 </div>
 
 <div align="center">
+  
+  <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A965F7&center=true&vCenter=true&width=435&lines=IA+aplicada+a+impacto+social+real;Transformando+Dados+em+Soluções;Segurança+e+Ética+Digital" alt="Typing SVG" />
+  </h3>
 
+  <br>
+
+  <!-- Botões de Ação (Estilo Flat/Retangular igual ao print) -->
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/Marcellecarol" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="#projetos" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-ff69b4?style=for-the-badge&logo=code-review&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFÓLIO-D0659C?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=Marcellecarol&label=Visualizações&color=A965F7&style=flat" alt="Marcellecarol" />
-  
+  <!-- Stats lado a lado -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcellecarol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td align="center">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellecarol&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
@@ -74,12 +93,16 @@ const marcelle: Desenvolvedora = {
 
 <div align="center">
 
-### Desenvolvimento Frontend & Backend
+<br>
+<p>Desenvolvimento Frontend</p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind" />
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,python,nodejs,postgres" />
+<br><br>
+<p>Backend & Banco de Dados</p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,postgres,mysql,fastapi" />
 
-### Ferramentas & DevOps
-
+<br><br>
+<p>Ferramentas & Design</p>
 <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,figma" />
 
 </div>
@@ -101,21 +124,30 @@ const marcelle: Desenvolvedora = {
 
 ### 🏢 LuzNoBairro
 
-**Gestão Urbana | Aplicação Full-Stack**  
-*Stack: React + Node.js + PostgreSQL*  
-> **Destaques:** Acompanhamento em tempo real • Geolocalização de postes • Upload de fotos via mobile • Dashboard administrativo.
+**Gestão Urbana | Aplicação Full-Stack**
+
+**Stack:** `React` + `Node.js` + `PostgreSQL`  
+**Destaques:** Acompanhamento em tempo real • Geolocalização de postes • Upload de fotos via mobile • Dashboard administrativo.
+
+---
 
 ### 🧠 Research AI
 
-**Automação Científica | Inteligência Artificial**  
-*Stack: Python + Streamlit + LLMs*  
-> **Destaques:** Leitura automática de PDFs • Geração de resumos acadêmicos • Foco em rigor científico e citação correta.
+**Automação Científica | Inteligência Artificial**
+
+**Stack:** `Python` + `Streamlit` + `LLMs`  
+**Destaques:** Leitura automática de PDFs • Geração de resumos acadêmicos • Foco em rigor científico e citação correta.
+
+---
 
 ### ✨ Portfolio 2025
 
-**Showcase Pessoal | UI Avançada**  
-*Stack: React + Framer Motion*  
-> **Destaques:** Design moderno • Apresentação de cases • Animações suaves • Totalmente responsivo.
+**Showcase Pessoal | UI Avançada**
+
+**Stack:** `React` + `Framer Motion`  
+**Destaques:** Design moderno • Apresentação de cases • Animações suaves • Totalmente responsivo.
+
+<br>
 
 <div align="center">
   <br>
@@ -134,16 +166,6 @@ const marcelle: Desenvolvedora = {
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/Marcellecarol/Marcellecarol/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
-
----
-
-## 🌟 Meus Diferenciais
-
-| Característica | Aplicação Prática |
-| :--- | :--- |
-| **Ciência + Tech** | Trago o rigor do método científico para a qualidade do código. |
-| **Ética em IA** | Desenvolvo pensando em privacidade e impacto social desde o dia 1. |
-| **Visão Sistêmica** | Entendo o ciclo completo: do dado bruto à interface do usuário. |
 
 ---
 
@@ -167,22 +189,43 @@ modelo_trabalho: [Remoto, Híbrido]
 
 ---
 
-## 💌 Vamos nos conectar
-
 <div align="center">
-
-  *"Nada na vida deve ser temido, apenas compreendido."* — **Marie Curie**
-
+  
+  <h3>💌 Vamos nos conectar</h3>
+  
+  <p>Cada link abre uma camada diferente da minha jornada:</p>
+  
   <br>
 
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-beatriz.santos.ads97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/JORNADA%20PROFISSIONAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/5521970365917">
-    <img src="https://img.shields.io/badge/WhatsApp-Contato_Direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/Marcellecarol" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFÓLIO%20DE%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="#projetos" target="_blank">
+    <img src="https://img.shields.io/badge/SHOWCASE%20INTERATIVO-D0659C?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 
   <br><br>
+
+  <p>
+    📧 Email: <a href="mailto:marcellecarolina@gmail.com">marcellecarolina@gmail.com</a><br>
+    🌐 Disponível para trabalho remoto global
+  </p>
+
+  <br>
+
+  <blockquote>
+    "Frontend não é só código — é experiência, emoção e narrativa"
+  </blockquote>
+
+  <br>
   <sub>✨ Construído com paixão e código limpo | Atualizado em: 2026</sub>
+  
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=8A2BE2,4B0082" />
 
 </div>
