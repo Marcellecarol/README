@@ -1,112 +1,96 @@
-<!-- Header com Animação de "Digitação" -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=A965F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Marcelle+Carol;Full+Stack+Developer;AI+%26+Biodefense+Researcher" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Marcelle&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Biodefense%20Researcher&descAlignY=55&descAlign=60" />
 </div>
 
-<!-- Imagem de Capa (Header Ondulado) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=220&section=header&text=&fontSize=90" />
+
+  <!-- Foto de Perfil Redonda -->
+  <img style="border-radius: 50%; border: 4px solid #8A2BE2;" src="https://github.com/Marcellecarol.png" width="150" alt="Foto de Perfil">
+
+  <br><br>
+
+## Sobre mim 👩‍💻
   
-  <!-- FOTO DE PERFIL (Puxa automaticamente do seu GitHub!) -->
-  <br>
-  <img style="border-radius: 50%; border: 4px solid #A965F7;" src="https://github.com/Marcellecarol.png" width="160" alt="Foto de Perfil">
-  <br>
+  Sou uma desenvolvedora com um background único: **Ciência e Tecnologia**.
+  
+* 🧬 **Mestrado em Biodefesa** (IBEx)
+* 🤖 **Especialista em IA Ética & LGPD**
+* 🔭 Atualmente trabalhando no **LuzNoBairro** e **Research AI**
+* ⚡ Foco: Criar softwares seguros, eficientes e de alto impacto.
+
 </div>
 
+<br>
+
 <div align="center">
+  <h2>Techs 🛠️</h2>
 
-### *"Nada na vida deve ser temido, apenas compreendido."* — Marie Curie ⚛️
+  <div style="display: inline_block">
+    <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </div>
+</div>
 
+<br>
+
+<div align="center">
+  <h2>Projetos 💼</h2>
+  
+  | Projeto | O que faz? | Stack |
+  | :--- | :--- | :---: |
+  | **🏢 LuzNoBairro** | Gestão urbana e iluminação pública. | `React` `Node` |
+  | **🧠 Research AI** | Automação de pesquisa acadêmica. | `Python` `AI` |
+  | **✨ Portfolio** | Site pessoal com UX moderna. | `React` |
+  
+</div>
+
+<br>
+
+<div align="center">
+  <h2>Github Stats 📊</h2>
+
+  <div align="center">
+    <a href="https://github.com/Marcellecarol">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcellecarol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellecarol&layout=compact&theme=dracula&hide_border=true"/>
+    </a>
+  </div>
+  
   <br>
 
-  <!-- Botões Sociais (Estilo Moderno e Clean) -->
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellecarol&theme=dracula&hide_border=true" alt="Marcelle's Streak" />
+  </div>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  > *"Nada na vida deve ser temido, apenas compreendido."* — **Marie Curie**
+  
+  <br><br>
+
+  <a href="https://wa.me/5521970365917" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seu-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/5521970365917" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 
 </div>
 
 <br>
 
----
-
-## 👩‍💻 Sobre Mim (About Me)
-
-Sou uma desenvolvedora com um diferencial único: uno **Ciência e Tecnologia**. Com mestrado em **Biodefesa** e especialização em **IA Ética**, construo softwares que são não apenas funcionais, mas seguros e preparados para o futuro.
-
-* 🎓 **Mestrado**: Biodefesa (IBEx)
-* 🤖 **Foco**: Inteligência Artificial, LGPD e Segurança de Dados.
-* 🧠 **Super Poder**: Transformar "Big Data" complexo em dashboards simples.
-
----
-
-## 🚀 Portfólio em Destaque
-
-| Projeto | Descrição | Stack | Ver |
-| :--- | :--- | :--- | :---: |
-| **✨ Portfolio 2025** | Meu site pessoal moderno, focado em UX/UI e apresentação de cases. | `React` `Framer` | [Repo](#) |
-| **🌦️ Weather App** | Aplicação de previsão do tempo com dados em tempo real e geolocalização. | `JS` `API` `CSS` | [Repo](#) |
-| **🍰 Postres App** | Catálogo interativo e dinâmico (CRUD completo) para gestão de receitas/items. | `Node` `React` | [Repo](#) |
-| **🏢 LuzNoBairro** | Gestão urbana para cidadãos reportarem iluminação pública. | `React` `Postgres` | *Em Breve* 🚧 |
-| **🧠 Research AI** | Automação de pesquisa acadêmica com Inteligência Artificial. | `Python` `LLM` | *Em Breve* 🚧 |
-
----
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
-  <br>
-  <!-- Ícons animados e bonitos -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,html,css" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,docker,git,linux,vscode,idea" />
-  </a>
-</div>
-
-<br>
-
----
-
-## 📊 Analytics & Impact (Github Stats)
-
-<!-- Layout em Tabela para ficar perfeitamente alinhado visualmente -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- Stats Gerais (Tema Tokyonight para combinar com o roxo) -->
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcellecarol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-      </td>
-      <td align="center">
-        <!-- Linguagens Mais Usadas -->
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellecarol&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Streak Stats (Corrigido: Usando servidor demolab que é mais estável) -->
-  <img src="https://streak-stats.demolab.com?user=Marcellecarol&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<!-- Animação Snake (Precisa rodar a Action para aparecer!) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Marcellecarol/Marcellecarol/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
