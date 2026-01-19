@@ -5,12 +5,13 @@
 <div align="center">
   
   <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A965F7&center=true&vCenter=true&width=435&lines=IA+aplicada+a+impacto+social+real;Transformando+Dados+em+Soluções;Segurança+e+Ética+Digital" alt="Typing SVG" />
+    <!-- Aumentado width para 700 para não cortar o texto -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A965F7&center=true&vCenter=true&width=700&lines=IA+aplicada+a+impacto+social+real;Transformando+Dados+em+Soluções;Segurança+e+Ética+Digital" alt="Typing SVG" />
   </h3>
 
   <br>
 
-  <!-- Botões de Ação (Estilo Flat/Retangular igual ao print) -->
+  <!-- Botões de Ação -->
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -25,11 +26,16 @@
 
   <br><br>
 
-  <!-- Stats lado a lado -->
+  <!-- Diferencial: Troféus do GitHub (3D) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcellecarol&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+  <br><br>
+
+  <!-- Stats lado a lado (Removido count_private para evitar erro de API) -->
   <table align="center">
     <tr>
       <td align="center">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcellecarol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcellecarol&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
       </td>
       <td align="center">
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellecarol&layout=compact&theme=tokyonight&hide_border=true" />
@@ -163,7 +169,7 @@ const marcelle: Desenvolvedora = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Marcellecarol&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br><br>
-  <!-- Snake Animation -->
+  <!-- Snake Animation (Só aparece quando o Github Actions rodar pela primeira vez) -->
   <img src="https://raw.githubusercontent.com/Marcellecarol/Marcellecarol/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
@@ -212,7 +218,7 @@ modelo_trabalho: [Remoto, Híbrido]
   <br><br>
 
   <p>
-    📧 Email: <a href="mailto:marcellecarolina@gmail.com">marcellecarolina@gmail.com</a><br>
+    📧 Email: <a href="mailto:marcellecarolina15@gmail.com">marcellecarolina15@gmail.com</a><br>
     🌐 Disponível para trabalho remoto global
   </p>
 
